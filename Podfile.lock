@@ -1,0 +1,12 @@
+PODS:
+  - APIManager (0.0.3)
+
+DEPENDENCIES:
+  - APIManager (~> 0.0.3)
+
+SPEC CHECKSUMS:
+  APIManager: 84e21bf87aee3990c9856efe86630e7dc269d987
+
+PODFILE CHECKSUM: 8fe48d5a10d9c5bfeeba2a641d4195acc1d0f8cb
+
+COCOAPODS: 1.2.1
